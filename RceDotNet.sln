@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RceDotNet.API", "RceDotNet.API\RceDotNet.API.csproj", "{DF3C7E35-E215-4EF0-AD0E-AF2D2DB59944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF3C7E35-E215-4EF0-AD0E-AF2D2DB59944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3C7E35-E215-4EF0-AD0E-AF2D2DB59944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3C7E35-E215-4EF0-AD0E-AF2D2DB59944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3C7E35-E215-4EF0-AD0E-AF2D2DB59944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F52672C1-CB7B-4D06-AE2C-4DB03CD42502}
+	EndGlobalSection
+EndGlobal
